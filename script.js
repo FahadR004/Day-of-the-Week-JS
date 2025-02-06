@@ -22,18 +22,13 @@ switch (dayNumber) {
         quote = "Tuesday is a day of work!"
         break;
 
-    case 2: 
-        theDay = "Tuesday";
-        quote = "Tuesday is a day of work!"
-        break;
-
     case 3: 
         theDay = "Wednesday";
         quote = "Ugh. The middle of the week.."
         break;
 
     case 4: 
-        theDay = "Tuesday";
+        theDay = "Thursday";
         quote = "Thursday is another day of work, work and work!"
         break;
 
